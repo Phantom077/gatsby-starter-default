@@ -10,7 +10,7 @@ class ResponsivePlayer extends React.Component {
       <div className="player-wrapper">
         <ReactPlayer
           className="react-player"
-          url="https://www.youtube.com/watch?v=ysz5S6PUM-U"
+          url="https://www.youtube.com/watch?v=Rq5SEhs9lws"
           width="100%"
           height="100%"
         />
